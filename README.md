@@ -14,3 +14,7 @@ I'm new . it's my first time  👨‍💻 eager to believe, create and grow :inf
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 
 📫 How to reach me: [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="22em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow Raymo111 on LinkedIn"/>](https://www.linkedin.com/in/fuad-al-kwkabani-181700188/)
+
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Fuad-Alkwkabani)](https://github.com/anuraghazra/github-readme-stats)
